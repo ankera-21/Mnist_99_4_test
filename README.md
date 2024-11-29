@@ -98,6 +98,8 @@ Estimated Total Size (MB): 0.89
 3. Use of DropOut
 4. Use of Fully Connected Layer 
 
+## Training Logs
+
 ```log
 loss=0.20113474130630493 batch_id=468: 100%|██████████| 469/469 [00:29<00:00, 15.64it/s]
 
